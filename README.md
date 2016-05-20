@@ -11,4 +11,4 @@
 
 ![MKSC](http://www.mksc.jp/wp-content/themes/mksc_2012/img/logo.png)
 
-Copyright © 2005 - 2015 MKSC All rights reserved. 
+Copyright © 2005 - 2016 MKSC All rights reserved. 
