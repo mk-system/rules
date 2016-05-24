@@ -7,7 +7,6 @@
 - [休暇申請規程](003_休暇申請規程.md)
 - [出張旅費規程](004_出張旅費規程.md)
 - [支払申請規程](005_支払申請規程.md)
-
-![MKSC](http://www.mksc.jp/wp-content/themes/mksc_2012/img/logo.png)
-
-Copyright © 2005 - 2015 MKSC All rights reserved. 
+- [電子メール利用規程](006_電子メール利用規程.md)
+- [機密情報管理規則](007_機密情報管理規則.md)
+- [メディア利用規程](008_メディア利用規程.md)
