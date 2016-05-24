@@ -10,7 +10,3 @@
 - [電子メール利用規程](006_電子メール利用規程.md)
 - [機密情報管理規則](007_機密情報管理規則.md)
 - [メディア利用規程](008_メディア利用規程.md)
-
-![MKSC](http://www.mksc.jp/wp-content/themes/mksc_2012/img/logo.png)
-
-Copyright © 2005 - 2016 MKSC All rights reserved. 
